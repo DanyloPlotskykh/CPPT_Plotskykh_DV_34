@@ -1,0 +1,75 @@
+WaterGun::WaterGun
+WaterGun::setName
+WaterGun::setAmmoCount
+capacity: 200
+WaterGun::setCaliber
+ml_per_second: 50
+WaterGun::shot
+suswater shot!
+WaterGun::shot
+suswater shot!
+WaterGun::wearSilencer
+silencer was taken
+WaterGun::shot
+sus long water shot
+WaterGun::shot
+sus long water shot
+WaterGun::getAmmoCount
+ammoCount: 200
+WaterGun::getCaliber
+caliber: 50
+WaterGun::reload
+WaterGun::shot
+sus long water shot
+WaterGun::takeOffSilencer
+silencer was taken off
+WaterGun::WaterGun()
+WaterGun::setName()
+WaterGun::setAmmoCount()
+capacity: 200
+WaterGun::setCaliber()
+ml_per_second: 50
+WaterGun::shot()
+WAtERGUNwater shot!
+WaterGun::shot()
+WAtERGUNwater shot!
+WaterGun::wearSilencer()
+silencer was taken
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::getAmmoCount()
+ammoCount: 200
+WaterGun::getCaliber()
+caliber: 50
+WaterGun::reload()
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::takeOffSilencer()
+silencer was taken off
+WaterGun::WaterGun()
+WaterGun::setName()
+WaterGun::setAmmoCount()
+capacity: 200
+WaterGun::setCaliber()
+ml_per_second: 50
+WaterGun::shot()
+WAtERGUNwater shot!
+WaterGun::shot()
+WAtERGUNwater shot!
+WaterGun::wearSilencer()
+silencer was taken
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::getAmmoCount()
+ammoCount: 200
+WaterGun::getCaliber()
+caliber: 50
+WaterGun::reload()
+WaterGun::shot()
+WAtERGUN long water shot
+WaterGun::takeOffSilencer()
+silencer was taken off

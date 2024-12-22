@@ -1,0 +1,58 @@
+added name - Desert Eagle
+gun::Shot()
+Desert Eagle shot
+gun::Shot()
+Desert Eagle shot
+gun::wearSilencer()
+gun::Shot()
+Desert Eagle quiet shot
+gun::Shot()
+Desert Eagle quiet shot
+added name - Desert Eagle
+gun::getName() - Desert Eagle
+gun::getAmmoCount() - 15
+gun::Shot()
+Desert Eagle shot
+gun::Shot()
+Desert Eagle shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15
+gun::wearSilencer()
+gun::Shot()
+Desert Eagle quiet shot
+gun::Shot()
+Desert Eagle quiet shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15
+added name - Desert Eagle
+gun::getName() - Desert Eagle
+gun::getAmmoCount() - 15
+gun::Shot()
+Desert Eagle shot
+gun::Shot()
+Desert Eagle shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15
+gun::wearSilencer()
+gun::Shot()
+Desert Eagle quiet shot
+gun::Shot()
+Desert Eagle quiet shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15
+added name - Desert Eagle
+gun::getName() - Desert Eagle
+gun::getAmmoCount() - 15
+gun::Shot()
+Desert Eagle shot
+gun::Shot()
+Desert Eagle shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15
+gun::wearSilencer()
+gun::Shot()
+Desert Eagle quiet shot
+gun::Shot()
+Desert Eagle quiet shot
+gun::getAmmoCount() - 13
+gun::getAmmoCount() - 15

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Plotkykh.Lab4","l":"ExpressionCalculator"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
